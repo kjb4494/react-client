@@ -1,0 +1,9 @@
+/* html 에서는 그냥 텍스트형태로 ="backgroundColor: black; padding: 16px; ..." 이런식으로 작성했었지요?  */
+/* 리액트에서는 객체 형태로 작성해주셔야 합니다. */
+.App {
+  background: black;
+  color: aqua;
+  font-size: 36px;
+  padding: 1rem;
+  font-weight: 600;
+}
